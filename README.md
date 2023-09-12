@@ -1,2 +1,2 @@
 # pacman
-First complete coding project! Open the code to see my simple PacMan project.
+First complete coding project! Download the code and images to see my simple PacMan project.
