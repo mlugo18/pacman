@@ -1,2 +1,2 @@
 # pacman
-Simple PacMan project.
+First complete coding project! Open the code to see my simple PacMan project.
