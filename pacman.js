@@ -1,7 +1,7 @@
 var pos = 0; 
 let pageWidth = window.innerWidth;
 
-//Modify the images path based on your repository. GitHubCommentSSHKeyTest
+//Modify the images path based on your repository. GitHubCommentSSHKeyTest (REMOVE)
 const pacArray = [
   ['./images/PacMan1.png', './images/PacMan2.png'],
   ['./images/PacMan3.png', './images/PacMan4.png'],
